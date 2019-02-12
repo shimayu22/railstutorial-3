@@ -69,3 +69,6 @@ $ rails server
 Rails 5.0.1 で rails new するとできる Gemfile の git_source ブロックの意味
 https://qiita.com/kymmt90/items/0ab4027fb5c42857d759
 
+$ heroku logs
+
+2019/02/12 3.1完了まで
