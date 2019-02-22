@@ -72,3 +72,9 @@ https://qiita.com/kymmt90/items/0ab4027fb5c42857d759
 $ heroku logs
 
 2019/02/12 3.1完了まで
+
+2019/02/15 3章完了
+
+2019/02/22 4章開始
+
+
